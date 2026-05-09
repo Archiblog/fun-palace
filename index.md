@@ -6,3 +6,4 @@
     <img src="images/fun-palace-model.jpg">
 </div>
 
+* Figure 1. Model, 1984
