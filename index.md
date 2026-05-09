@@ -6,8 +6,5 @@
     <img src="images/fun-palace-model.jpg">
 </div>
 
-* **Figure 1.** Model, 1984. Source: Canadian Centre for Architecture.
+* **Figure 1.** Exhibition model, 1984. Source: Canadian Centre for Architecture.
 
-# A first-level heading
-## A second-level heading
-### A third-level heading
